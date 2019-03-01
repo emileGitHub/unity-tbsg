@@ -5,7 +5,10 @@ Latest Version.
 
 
 Server-side: Ubuntu 18.04.2 LTS, Tomcat, Java, MySQL
-A home server with dynamic public IP is being used. Hence, please note that the access to server might temporarily be unavailable due to the change in the public IP address.
+
+A home server with dynamic public IP is being used. 
+
+Hence, please note that the access to server might temporarily be unavailable due to the change in the public IP address.
 Please try downloading the newest version after some time if the game does not connect to the server.
 
 Client-side: Windows, Unity3D Game Engine, C#
